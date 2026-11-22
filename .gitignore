@@ -7,3 +7,6 @@
 *.orig
 *.bak
 .DS_Store
+
+# Personal notes (contain machine details)
+MY-MAINTENANCE-NOTES.md
