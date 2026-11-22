@@ -1,0 +1,9 @@
+# Never commit configuration or secrets
+.env
+.env.*
+*.env
+
+# Local working copies
+*.orig
+*.bak
+.DS_Store
